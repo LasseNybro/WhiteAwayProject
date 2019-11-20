@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Titanic",
+    "sound": 4,
+    "acting": 5,
+    "effects": 4,
+    "music": 3
+  },
+  {
+    "title": "The Godfather",
+    "sound": 5,
+    "acting": 5,
+    "effects": 5,
+    "music": 4
+  },
+  {
+    "title": "Toy Story 2",
+    "sound": 4,
+    "acting": 4,
+    "effects": 3,
+    "music": 1
+  },
+  {
+    "title": "The postman",
+    "sound": 5,
+    "acting": 6,
+    "effects": 5,
+    "music": 5
+  }
+]
